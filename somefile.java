@@ -7,5 +7,6 @@ public somefile(){}
  int i = 0;
  int t = 1;
  int m = 2;
+ int r = 3;
 
 }
